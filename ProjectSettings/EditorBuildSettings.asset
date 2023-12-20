@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
+    guid: 047be9f98fad048c88d547a6e5191dc7
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: d5d9bfa90ae544d4ca3040209b95d9e1
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 787bdfc92926a4a018ec5ca2ed73cf83
+  - enabled: 1
+    path: Assets/Scenes/BaseGame.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8c777d7e5ef7c4c49a940c5cb4ac476f
+  - enabled: 1
+    path: Assets/Scenes/WinningScreen.unity
+    guid: b7b0a000097a2487db26a3e0ae49a4ef
+  m_configObjects: {}

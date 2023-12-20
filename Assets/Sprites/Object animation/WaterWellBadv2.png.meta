@@ -1,0 +1,1953 @@
+fileFormatVersion: 2
+guid: c0a425594a0b54e4f976a7c7958c7696
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 148
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterWellBadv2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87065a9500040e54c9a80c83c9d3f53d
+      internalID: 2076781256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9da2c230a9a2448efb7409935f68f
+      internalID: -770120299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7d68f5149ec041b47b1ed5fe120bd
+      internalID: 1915312533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244fda85ea5bf664ab80fb553bf00bd8
+      internalID: 1468462837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e9d39bd68668408e5f433d682cbe1
+      internalID: 1074356462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3ff3024dfcb64d9d5f5d4d743a44e
+      internalID: 1208690754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316c887713563642a258060e5662ae4
+      internalID: -1787896220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bdcb05dd77c74fbe43cee5f80de47
+      internalID: 1533605813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eb501579870d546a6227f1d9beb61b
+      internalID: -1424541867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_9
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27857532a37e91348a8f45995351e5f2
+      internalID: 1571797901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_10
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40ee0839b977a94694339a3cc79c613
+      internalID: -1860173731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_11
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8af5057d80a5114e8e28ce609f8ecb7
+      internalID: -1990351736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_12
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8970372c8c49a547963f2a60b729836
+      internalID: -665088818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_13
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13750da2b432d1a43b055e0beade8153
+      internalID: -49482745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_14
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b898c3dace61ae4a922a5140ef17946
+      internalID: 1706876328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_15
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf374e17fc95974e87f9045d71abb68
+      internalID: -1673143677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_16
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7d559ccb908044b5e7efd5d74d29a
+      internalID: -356468734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_17
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b190ece0d0764474a820b56ced8d3bb2
+      internalID: -1403969154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_18
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb349d96e2f0d8b4b9b11b79f70ad14f
+      internalID: 1295275218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_19
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0631151f1c4c1648be87560232c954e
+      internalID: 136812961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_20
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646a9056f123c24d8339169aa9a706d
+      internalID: 402836200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_21
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e307f5f5b2b74ebc95dd673053ab1
+      internalID: -1832252070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_22
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6310127b4813f5b4aa719e061e605303
+      internalID: 518779801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_23
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c21bc6ad7eef94190929ad3c40da62
+      internalID: 1753967239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_24
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623401ed1351c4d4c9f8f642b395d7f4
+      internalID: -1321329224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_25
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc49b5ec5988c4d876fcf8616285ae
+      internalID: 337740677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_26
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4c97f81de80e4982ea8fa2c5dc71b
+      internalID: -1674656785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_27
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729dfa30ebfdd54d952a522102e7eda
+      internalID: -1530129973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_28
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c45518caa78e041ab7e627a5223aa2
+      internalID: -1923375344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_29
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a3d9ea94261240941b67e81ecf3dc
+      internalID: -2054210629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_30
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e46ad67802fadc4f92d665e2575f39f
+      internalID: 964209283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_31
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d93b729792bd4e855a80c1733a021
+      internalID: -289037052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_32
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0935aeed813f44fa8512c3f15a091d
+      internalID: 1786978769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_33
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eaf72c93c809e45982d6afe7897986
+      internalID: 956968317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_34
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21728630a8e48ef459f75421b2cf9581
+      internalID: -1560907686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_35
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f576a43589274442aee2ed337f9ef83
+      internalID: 734807774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_36
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c0b7de55e432e4fa44dd3937f8788c
+      internalID: -1526935114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_37
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6508eaa0fa919a14eba51e3b8edebe81
+      internalID: -1946882481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_38
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d84ce38396c24b863105d01790cc9
+      internalID: 919983370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_39
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abbe2bfe431644b92ed91afd9d60d2
+      internalID: 929203305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_40
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9707e1d2b5974697ddfc59bd6a7d3
+      internalID: 1281524653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_41
+      rect:
+        serializedVersion: 2
+        x: 5986
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930be868af62f7440ad8ad06f73523e6
+      internalID: 842305384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_42
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51acdc1f1e2f64b8eab1b7742463db
+      internalID: 1373509276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_43
+      rect:
+        serializedVersion: 2
+        x: 6278
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b18ed5ac55a1b489e9fc3ad80f4904
+      internalID: -451364660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_44
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3741e1579e65844aa257ed033d67eb8
+      internalID: 1073739871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_45
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fb52bf19d2e94fb626fc32f272e53
+      internalID: -43351440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_46
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405033d8bda7b974da5403c75b677898
+      internalID: 1739455747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_47
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602059a41258f4d4c91a2e12c244f6ad
+      internalID: 216359711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_48
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cab3dffe2897e4cafc39c28f0d2781
+      internalID: -1898720581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_49
+      rect:
+        serializedVersion: 2
+        x: 7154
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a75e4a56aece89498fad981dce7fdaa
+      internalID: 278955550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_50
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d23199974fd5ae48891576f419755c2
+      internalID: 741454128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_51
+      rect:
+        serializedVersion: 2
+        x: 7446
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3cf3634875d044083625d617c14405
+      internalID: 2065961509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_52
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42732221b6bd7af4780b95009908963f
+      internalID: -136376131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_53
+      rect:
+        serializedVersion: 2
+        x: 7738
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44653a5bad34fb047a9f58d79906c649
+      internalID: -370612316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_54
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df5df61cca58314699085991c1effd8
+      internalID: -504943518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_55
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f273ece15a2554eae53f9668652347
+      internalID: -1570491191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_56
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b2195274f56b42af886e65d1264b3
+      internalID: 577294512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_57
+      rect:
+        serializedVersion: 2
+        x: 8322
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2998c3c7dda54444baae056593666e9
+      internalID: 1088509450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_58
+      rect:
+        serializedVersion: 2
+        x: 8468
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3ee558beae9447a461f29b1711615
+      internalID: 1794339565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_59
+      rect:
+        serializedVersion: 2
+        x: 8614
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865511c5d0e9dd249bd60c1ba8cde07d
+      internalID: 814498770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_60
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ad27474d986a49912ec35b872af24
+      internalID: -785295538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_61
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d065525c8132cb249991920c4fc5f62f
+      internalID: 571147488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_62
+      rect:
+        serializedVersion: 2
+        x: 9052
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d94d466ee3ac488714aa55de229dc
+      internalID: 1556935067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_63
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e8995dcd1e774b931f4dac380fdb7
+      internalID: -1644240581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_64
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3ea80931a80474da66c522f9640106
+      internalID: 147086812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_65
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21280bde940b1a44badfb53c765e2147
+      internalID: -967835109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_66
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b47d98b9dc5c34f81f3ba6715f4abd
+      internalID: -50476413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_67
+      rect:
+        serializedVersion: 2
+        x: 9782
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c7cdee91fe0146bea2df0986cab7b
+      internalID: -1375919246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_68
+      rect:
+        serializedVersion: 2
+        x: 9928
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba728f50525734f99a2a3288e5b4d1
+      internalID: -921800040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_69
+      rect:
+        serializedVersion: 2
+        x: 10074
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce633561ac0f349b734f549472e043
+      internalID: 244812672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_70
+      rect:
+        serializedVersion: 2
+        x: 10220
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc503c9d5d69b4ea5cf2e6821b448b
+      internalID: 1588245801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_71
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebbeac7fb51ee42b8b520b94c0b0f8
+      internalID: 556559991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_72
+      rect:
+        serializedVersion: 2
+        x: 10512
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a2c9c5c49943b499e083b8b24c6f65
+      internalID: 1850911348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_73
+      rect:
+        serializedVersion: 2
+        x: 10658
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4927264c22777941926f4a965359e62
+      internalID: 1171203334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_74
+      rect:
+        serializedVersion: 2
+        x: 10804
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd495ab97f10124f813b96d2504294a
+      internalID: -1583212291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_75
+      rect:
+        serializedVersion: 2
+        x: 10950
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822a4cee9b03a540a4558f2fea5bf96
+      internalID: 2081602230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_76
+      rect:
+        serializedVersion: 2
+        x: 11096
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21463a7252b9d724992e0b77dc60f7bd
+      internalID: -296857825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_77
+      rect:
+        serializedVersion: 2
+        x: 11242
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc984a33108684cbb8b97bd969e3e8
+      internalID: -1300277296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_78
+      rect:
+        serializedVersion: 2
+        x: 11388
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee57471b2e4c94b9383a436e75254c
+      internalID: -165732922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_79
+      rect:
+        serializedVersion: 2
+        x: 11534
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4c86dc619e0f4cbc7229eb35169d8
+      internalID: 827105194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_80
+      rect:
+        serializedVersion: 2
+        x: 11680
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd5e5db4ea89154993ac7aebcd22f34
+      internalID: -1663012885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_81
+      rect:
+        serializedVersion: 2
+        x: 11826
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c22adbaf38aa147a5abb9c7590c687
+      internalID: 446607854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellBadv2_82
+      rect:
+        serializedVersion: 2
+        x: 11972
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26831a060ff687429b44644de2305e8
+      internalID: 303917175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WaterWellBadv2_0: 2076781256
+      WaterWellBadv2_1: -770120299
+      WaterWellBadv2_10: -1860173731
+      WaterWellBadv2_11: -1990351736
+      WaterWellBadv2_12: -665088818
+      WaterWellBadv2_13: -49482745
+      WaterWellBadv2_14: 1706876328
+      WaterWellBadv2_15: -1673143677
+      WaterWellBadv2_16: -356468734
+      WaterWellBadv2_17: -1403969154
+      WaterWellBadv2_18: 1295275218
+      WaterWellBadv2_19: 136812961
+      WaterWellBadv2_2: 1915312533
+      WaterWellBadv2_20: 402836200
+      WaterWellBadv2_21: -1832252070
+      WaterWellBadv2_22: 518779801
+      WaterWellBadv2_23: 1753967239
+      WaterWellBadv2_24: -1321329224
+      WaterWellBadv2_25: 337740677
+      WaterWellBadv2_26: -1674656785
+      WaterWellBadv2_27: -1530129973
+      WaterWellBadv2_28: -1923375344
+      WaterWellBadv2_29: -2054210629
+      WaterWellBadv2_3: 1468462837
+      WaterWellBadv2_30: 964209283
+      WaterWellBadv2_31: -289037052
+      WaterWellBadv2_32: 1786978769
+      WaterWellBadv2_33: 956968317
+      WaterWellBadv2_34: -1560907686
+      WaterWellBadv2_35: 734807774
+      WaterWellBadv2_36: -1526935114
+      WaterWellBadv2_37: -1946882481
+      WaterWellBadv2_38: 919983370
+      WaterWellBadv2_39: 929203305
+      WaterWellBadv2_4: 1074356462
+      WaterWellBadv2_40: 1281524653
+      WaterWellBadv2_41: 842305384
+      WaterWellBadv2_42: 1373509276
+      WaterWellBadv2_43: -451364660
+      WaterWellBadv2_44: 1073739871
+      WaterWellBadv2_45: -43351440
+      WaterWellBadv2_46: 1739455747
+      WaterWellBadv2_47: 216359711
+      WaterWellBadv2_48: -1898720581
+      WaterWellBadv2_49: 278955550
+      WaterWellBadv2_5: 1208690754
+      WaterWellBadv2_50: 741454128
+      WaterWellBadv2_51: 2065961509
+      WaterWellBadv2_52: -136376131
+      WaterWellBadv2_53: -370612316
+      WaterWellBadv2_54: -504943518
+      WaterWellBadv2_55: -1570491191
+      WaterWellBadv2_56: 577294512
+      WaterWellBadv2_57: 1088509450
+      WaterWellBadv2_58: 1794339565
+      WaterWellBadv2_59: 814498770
+      WaterWellBadv2_6: -1787896220
+      WaterWellBadv2_60: -785295538
+      WaterWellBadv2_61: 571147488
+      WaterWellBadv2_62: 1556935067
+      WaterWellBadv2_63: -1644240581
+      WaterWellBadv2_64: 147086812
+      WaterWellBadv2_65: -967835109
+      WaterWellBadv2_66: -50476413
+      WaterWellBadv2_67: -1375919246
+      WaterWellBadv2_68: -921800040
+      WaterWellBadv2_69: 244812672
+      WaterWellBadv2_7: 1533605813
+      WaterWellBadv2_70: 1588245801
+      WaterWellBadv2_71: 556559991
+      WaterWellBadv2_72: 1850911348
+      WaterWellBadv2_73: 1171203334
+      WaterWellBadv2_74: -1583212291
+      WaterWellBadv2_75: 2081602230
+      WaterWellBadv2_76: -296857825
+      WaterWellBadv2_77: -1300277296
+      WaterWellBadv2_78: -165732922
+      WaterWellBadv2_79: 827105194
+      WaterWellBadv2_8: -1424541867
+      WaterWellBadv2_80: -1663012885
+      WaterWellBadv2_81: 446607854
+      WaterWellBadv2_82: 303917175
+      WaterWellBadv2_9: 1571797901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

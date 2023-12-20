@@ -1,0 +1,1953 @@
+fileFormatVersion: 2
+guid: 8ecd8a7821f3b8f469904cfbc3c7cb72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 148
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterWellGoodv2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a6c956aa4dd34ea719e5bb6f31a00
+      internalID: 618757449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153597a5e0b3c0469927dc63f444d07
+      internalID: 732127545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff3aec0ecd7b548a4d736e01c0a81a
+      internalID: 1840049195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45465ffbc275b7b4ca4695f18841d630
+      internalID: -1198033124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19042e3417f67fd4d8a3d2b459ec9f16
+      internalID: 122476648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0624c56bae517454d87f7c80a328522f
+      internalID: 1893629561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063f85f724c90b4db2acc2f7bc3b22b
+      internalID: 958206858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca0873a894d8f4d966962332377af1
+      internalID: -138434643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4afc19bff57c4243846c0e4dfec2752
+      internalID: 1049668873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_9
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ca314a20cf0841a591966d9c11933
+      internalID: -844673541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_10
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8ba38064f5e344a9a4aecd6196664
+      internalID: 665195243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_11
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9123ef9d9cbded469c8c43a44addd07
+      internalID: -512128418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_12
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50e8e9160c5c24e93112b8ce6645a4
+      internalID: 630524611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_13
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa04f7c944c64142a5a8974a772d770
+      internalID: -2039138855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_14
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73effcae240622d4d9ce05c2effbb27b
+      internalID: -1771970890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_15
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f82e8e2690d145807c2e7511b57f1
+      internalID: -987708604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_16
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1faa5c589c4aa49801c07c4c90cd98
+      internalID: -856032801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_17
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fd2ae98452774699b854c28577589
+      internalID: 20727357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_18
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7752d289f4543449fdda803ed092a9
+      internalID: -319978665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_19
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7dc5aeaff27640b1f36f9c68e98e9
+      internalID: 1329591703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_20
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f065873bfc924380e7b621433b15b
+      internalID: -1769423190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_21
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ef639d8506e064098b7ab5313f86de
+      internalID: -39262215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_22
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7511f39b9af52b47a937b1151e9b32c
+      internalID: -291548862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_23
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafea7edef6fb314eb754f5bae6c3de3
+      internalID: -1155215571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_24
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fe7967b7e79340a980e1d9fdb23ba
+      internalID: 1600285289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_25
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dc3b571c925814fa8234429d134eb0
+      internalID: 124016766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_26
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8de6315badb843903f8599704a82a
+      internalID: -953148826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_27
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887482584e6b0f4da7448e5207349b4
+      internalID: -115437634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_28
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13305e8108b75a64787e92aa4d9a9dd6
+      internalID: -1907816686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_29
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6567f53add884bb1a932fed13da4f
+      internalID: 348913469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_30
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b2eec88137b4c46b42d7dae9c485eb
+      internalID: -2002687562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_31
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a836ed0ec72d3f4ab2df337f6016785
+      internalID: -712026585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_32
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0093bd54813bb043b2031cc763443d4
+      internalID: 1790926568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_33
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2c0fac83045b4088ec1dd2c77eb3e
+      internalID: -874864151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_34
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd1019a5112e3642ab4897c916adcde
+      internalID: -690230909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_35
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032ea859b11f3848aee193203361072
+      internalID: 777155776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_36
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78e6fdf120a864fa1c7fa169f2fc5c
+      internalID: -1796970206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_37
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01be9b206ae7004593d8b3181f0a322
+      internalID: 808807255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_38
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4cac6205d885a4c856b180ee5850af
+      internalID: -173610229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_39
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407ddc6ba90fda44cb49e7880544c8a2
+      internalID: -424239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_40
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f0eddfa143ac4dbaf65fed9960a3e
+      internalID: -313470498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_41
+      rect:
+        serializedVersion: 2
+        x: 5986
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b138cd94edf2be644b9f6adbcb9dee38
+      internalID: -1705223975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_42
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68fa3f5790afb041bc5a3f46fcbfc76
+      internalID: 1746707376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_43
+      rect:
+        serializedVersion: 2
+        x: 6278
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99d6ac47893184b9559a45208c9d2f
+      internalID: -1732584119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_44
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ec76cec1478264895b4ab8192b1007
+      internalID: -589686553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_45
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df401fde21bce3541b94269b77e78ad5
+      internalID: -1574192751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_46
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6c665c321f7c4ebe3efef9904a84b
+      internalID: -907883830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_47
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37961484c141e34985492741741963f
+      internalID: -457470554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_48
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60e14b99f790048881bcb43a07ad01
+      internalID: -64914281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_49
+      rect:
+        serializedVersion: 2
+        x: 7154
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1a5fe57e63bf4182ca23296f40929
+      internalID: 204751406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_50
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab34681f3b5610489be1442a393b87c
+      internalID: -121068216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_51
+      rect:
+        serializedVersion: 2
+        x: 7446
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd3fc313a88dd4a8cd9b989fa5e6d9
+      internalID: -371004443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_52
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f93a61397f8f64bb477df062ff87f3
+      internalID: -339936244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_53
+      rect:
+        serializedVersion: 2
+        x: 7738
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea9a8819b40e04a842924e348abe2e
+      internalID: 766452482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_54
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63beb079c2a9f043a299642edc8db7f
+      internalID: 165426484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_55
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea584e5b2dc37fe4a8f1dc4468bbf6a8
+      internalID: 671650336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_56
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd34b8f16555f347849d20410377580
+      internalID: -1229325948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_57
+      rect:
+        serializedVersion: 2
+        x: 8322
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ab43b288d82bd45a47bafc28c0c081
+      internalID: 438788454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_58
+      rect:
+        serializedVersion: 2
+        x: 8468
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca80988d1203a43a25852f902eb89b
+      internalID: -2091886960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_59
+      rect:
+        serializedVersion: 2
+        x: 8614
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ea8c95d58abe41934cf00cfba4f3d
+      internalID: 1867079238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_60
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3f99cb16fbfa0438ea9c6fedfef35f
+      internalID: -1679689459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_61
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed74bb015b476445b2a09d880c0d0f9
+      internalID: 1209071975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_62
+      rect:
+        serializedVersion: 2
+        x: 9052
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993a79b41a5425489971a2883503c1e
+      internalID: -1835462972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_63
+      rect:
+        serializedVersion: 2
+        x: 9198
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171aa3ee14531ee4da74aca511f53681
+      internalID: -218736132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_64
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f1fef0afcebd42a6c0ca2965b90a7
+      internalID: -1561649109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_65
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe9e33b8d4fb245bc370e5685eba28
+      internalID: -1266264496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_66
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c3d0ceea191a4faf746a169e14d6e
+      internalID: 606150763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_67
+      rect:
+        serializedVersion: 2
+        x: 9782
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a73f2e3c33f244db075d906cadd377
+      internalID: -943284029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_68
+      rect:
+        serializedVersion: 2
+        x: 9928
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c83a6295ed7e046aa41c9b9a08dcf9
+      internalID: 1304952443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_69
+      rect:
+        serializedVersion: 2
+        x: 10074
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b09d77611fbd41a61079add2293a7
+      internalID: 2021388308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_70
+      rect:
+        serializedVersion: 2
+        x: 10220
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451a476f37156554d9fbbd02f9a43a1c
+      internalID: -770427583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_71
+      rect:
+        serializedVersion: 2
+        x: 10366
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d71b0de3ef51748976a5fe528e1efe
+      internalID: -1652258020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_72
+      rect:
+        serializedVersion: 2
+        x: 10512
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b43842852e9164c88e5008b4993ad6
+      internalID: 344244979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_73
+      rect:
+        serializedVersion: 2
+        x: 10658
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4b86fa7a2c97449361aa5d407cfea
+      internalID: 949014462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_74
+      rect:
+        serializedVersion: 2
+        x: 10804
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f30fcf835fbb4aab259f9efc84e7f
+      internalID: -2103208555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_75
+      rect:
+        serializedVersion: 2
+        x: 10950
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64c9c8b64166b47a88bdcdbf08668f
+      internalID: 641440669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_76
+      rect:
+        serializedVersion: 2
+        x: 11096
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f0479eef5bd4459ccf7b269e77796
+      internalID: -373347917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_77
+      rect:
+        serializedVersion: 2
+        x: 11242
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf23a9a5b3a1e340aa8467db868bdeb
+      internalID: 124528790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_78
+      rect:
+        serializedVersion: 2
+        x: 11388
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1b179dd17bd604ab1f9ec1731c7c39
+      internalID: -55044031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_79
+      rect:
+        serializedVersion: 2
+        x: 11534
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f01718aa51e734089c2be58ac3c22b
+      internalID: 1134496355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_80
+      rect:
+        serializedVersion: 2
+        x: 11680
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0ea3f830c8f8343a2c62346268377d
+      internalID: -900128056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_81
+      rect:
+        serializedVersion: 2
+        x: 11826
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ad8f4c6291f54f9b815a885f0ed39
+      internalID: -1734548448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterWellGoodv2_82
+      rect:
+        serializedVersion: 2
+        x: 11972
+        y: 0
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e621c44466374b9e08db3c0e5a4d1
+      internalID: 1672666561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WaterWellGoodv2_0: 618757449
+      WaterWellGoodv2_1: 732127545
+      WaterWellGoodv2_10: 665195243
+      WaterWellGoodv2_11: -512128418
+      WaterWellGoodv2_12: 630524611
+      WaterWellGoodv2_13: -2039138855
+      WaterWellGoodv2_14: -1771970890
+      WaterWellGoodv2_15: -987708604
+      WaterWellGoodv2_16: -856032801
+      WaterWellGoodv2_17: 20727357
+      WaterWellGoodv2_18: -319978665
+      WaterWellGoodv2_19: 1329591703
+      WaterWellGoodv2_2: 1840049195
+      WaterWellGoodv2_20: -1769423190
+      WaterWellGoodv2_21: -39262215
+      WaterWellGoodv2_22: -291548862
+      WaterWellGoodv2_23: -1155215571
+      WaterWellGoodv2_24: 1600285289
+      WaterWellGoodv2_25: 124016766
+      WaterWellGoodv2_26: -953148826
+      WaterWellGoodv2_27: -115437634
+      WaterWellGoodv2_28: -1907816686
+      WaterWellGoodv2_29: 348913469
+      WaterWellGoodv2_3: -1198033124
+      WaterWellGoodv2_30: -2002687562
+      WaterWellGoodv2_31: -712026585
+      WaterWellGoodv2_32: 1790926568
+      WaterWellGoodv2_33: -874864151
+      WaterWellGoodv2_34: -690230909
+      WaterWellGoodv2_35: 777155776
+      WaterWellGoodv2_36: -1796970206
+      WaterWellGoodv2_37: 808807255
+      WaterWellGoodv2_38: -173610229
+      WaterWellGoodv2_39: -424239566
+      WaterWellGoodv2_4: 122476648
+      WaterWellGoodv2_40: -313470498
+      WaterWellGoodv2_41: -1705223975
+      WaterWellGoodv2_42: 1746707376
+      WaterWellGoodv2_43: -1732584119
+      WaterWellGoodv2_44: -589686553
+      WaterWellGoodv2_45: -1574192751
+      WaterWellGoodv2_46: -907883830
+      WaterWellGoodv2_47: -457470554
+      WaterWellGoodv2_48: -64914281
+      WaterWellGoodv2_49: 204751406
+      WaterWellGoodv2_5: 1893629561
+      WaterWellGoodv2_50: -121068216
+      WaterWellGoodv2_51: -371004443
+      WaterWellGoodv2_52: -339936244
+      WaterWellGoodv2_53: 766452482
+      WaterWellGoodv2_54: 165426484
+      WaterWellGoodv2_55: 671650336
+      WaterWellGoodv2_56: -1229325948
+      WaterWellGoodv2_57: 438788454
+      WaterWellGoodv2_58: -2091886960
+      WaterWellGoodv2_59: 1867079238
+      WaterWellGoodv2_6: 958206858
+      WaterWellGoodv2_60: -1679689459
+      WaterWellGoodv2_61: 1209071975
+      WaterWellGoodv2_62: -1835462972
+      WaterWellGoodv2_63: -218736132
+      WaterWellGoodv2_64: -1561649109
+      WaterWellGoodv2_65: -1266264496
+      WaterWellGoodv2_66: 606150763
+      WaterWellGoodv2_67: -943284029
+      WaterWellGoodv2_68: 1304952443
+      WaterWellGoodv2_69: 2021388308
+      WaterWellGoodv2_7: -138434643
+      WaterWellGoodv2_70: -770427583
+      WaterWellGoodv2_71: -1652258020
+      WaterWellGoodv2_72: 344244979
+      WaterWellGoodv2_73: 949014462
+      WaterWellGoodv2_74: -2103208555
+      WaterWellGoodv2_75: 641440669
+      WaterWellGoodv2_76: -373347917
+      WaterWellGoodv2_77: 124528790
+      WaterWellGoodv2_78: -55044031
+      WaterWellGoodv2_79: 1134496355
+      WaterWellGoodv2_8: 1049668873
+      WaterWellGoodv2_80: -900128056
+      WaterWellGoodv2_81: -1734548448
+      WaterWellGoodv2_82: 1672666561
+      WaterWellGoodv2_9: -844673541
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
